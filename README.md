@@ -1,0 +1,2 @@
+# RICORDINO-
+applicazione realtà aumentata
